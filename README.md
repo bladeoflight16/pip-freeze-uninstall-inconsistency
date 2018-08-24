@@ -13,7 +13,7 @@ C:\temp>SET PYTHONPATH=%CD%
 C:\temp>pip freeze
 mypack==1.0
 
-C:\temp>pip uninstall
+C:\temp>pip uninstall mypack
 Can't uninstall 'mypack'. No files were found to uninstall.
 ```
 
